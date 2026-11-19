@@ -1,0 +1,10 @@
+{
+  "niche": "AI note-taking / second-brain apps - where does agent memory fail",
+  "items": [
+    {"id": "obsidian", "name": "Obsidian", "itunes_term": "obsidian notes", "queries": ["obsidian smart connections AI plugin problems", "obsidian AI copilot complaints"]},
+    {"id": "notion", "name": "Notion AI", "itunes_term": "notion", "queries": ["notion ai complaints review", "notion ai wrong answers problems"]},
+    {"id": "anytype", "name": "Anytype", "itunes_term": "anytype", "queries": ["anytype review problems", "anytype sync complaints"]},
+    {"id": "craft", "name": "Craft Docs", "itunes_term": "craft docs", "queries": ["craft docs ai complaints", "craft app review problems"]},
+    {"id": "reflect", "name": "Reflect Notes", "itunes_term": "reflect notes app", "queries": ["reflect app review complaints", "reflect ai notes problems"]}
+  ]
+}
